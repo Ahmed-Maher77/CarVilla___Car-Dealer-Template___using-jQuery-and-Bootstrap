@@ -30,6 +30,13 @@ CarVilla is a modern and responsive one-page car dealer automotive website templ
 
 <hr/>
 
+## 👀 Website Preview:
+<a href="https://ahmed-maher77.github.io/CarVilla___Car-Dealer-Template___using-jQuery-and-Bootstrap/" title="demo">
+  <img src="https://github.com/user-attachments/assets/73e817c8-2c9d-4e35-90cf-8692350a60e4" alt="website preview - UI Mockup" width="400">
+</a>
+
+<hr/>
+
 ## Installation
 1. Clone the repository:
    ```sh
